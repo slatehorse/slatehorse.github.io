@@ -98,7 +98,7 @@ clients:
     url: http://oxfordbrc.nihr.ac.uk
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Slate Horse is a consultancy based in Oxfordshire. We help companies build amazing development teams and create effective technical strategies. We also love making things."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
