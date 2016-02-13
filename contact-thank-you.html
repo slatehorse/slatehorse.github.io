@@ -1,0 +1,32 @@
+---
+layout: contact
+title: Contact
+permalink: /contact/
+---
+
+<div id="contactwrap"></div>
+
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-8">
+            <h4>Thanks!</h4>
+            <div class="hline"></div>
+            <p>We'll be in touch very soon.</p>
+              
+        </div><! --/col-lg-8 -->
+
+        <div class="col-lg-4">
+            <h4>Our Address</h4>
+            <div class="hline"></div>
+                <p>
+                    {% for line in site.address.first.lines %}
+                        {{ line }} <br>
+                    {% endfor %}
+                </p>
+                <p>
+                    Email: {{ site.email }}<br/>
+                    Tel: {{ site.tel }}
+                </p>
+        </div>
+    </div><! --/row -->
+</div><! --/container -->
