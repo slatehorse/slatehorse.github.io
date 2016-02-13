@@ -4,14 +4,13 @@ title: Contact
 permalink: /contact/
 ---
 
-<div id="contactwrap"></div>
-
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-8">
-            <h4>Just Get In Touch!</h4>
+            <h4>Get in touch with us</h4>
             <div class="hline"></div>
-                <p>{{ site.about }}</p>
+            <p>Want to bounce an idea off us, talk through a problem, or discuss your next big thing? We'd love to hear about it.</p>
+                <p></p>
                 <form role="form" action="https://getsimpleform.com/messages?form_api_token=3db9712cb80514c658fa849d470fd9c3" method="post">
                   <input type='hidden' name='redirect_to' value='https://slatehorse.com/contact-thank-you.html' />
                   <div class="form-group">
@@ -31,7 +30,7 @@ permalink: /contact/
         </div><! --/col-lg-8 -->
 
         <div class="col-lg-4">
-            <h4>Our Address</h4>
+            <h4>Our address</h4>
             <div class="hline"></div>
                 <p>
                     {% for line in site.address.first.lines %}
