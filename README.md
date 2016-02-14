@@ -3,12 +3,6 @@
 Uses the [SOLID](https://github.com/st4ple/solid-jekyll) theme.
 
 # TODO
-- Accessibility
-- Homepage
-  - Values text
-  - How we work text
-  - Add info about services
-
-# TODO later
 - Testimonial image
 - Testimonial
+- Add info about services
