@@ -1,4 +1,6 @@
 ### GENERAL SETTINGS ###
+gems:
+  - jekyll-sitemap
 
 # Site settings
 title: Slate Horse
