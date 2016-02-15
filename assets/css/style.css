@@ -1,3 +1,9 @@
 ---
 layout: style
 ---
+
+/* Centre the client images in small screens */
+.img-responsive.client {
+	margin: 0 auto;
+	margin-bottom: 3em;
+}
