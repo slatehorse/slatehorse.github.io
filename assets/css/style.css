@@ -1,7 +1,7 @@
 ---
 ---
+{% include css/bootstrap.css %}
 {% include css/site.css %}
-
 
 /* Centre the client images in small screens */
 .img-responsive.client {
