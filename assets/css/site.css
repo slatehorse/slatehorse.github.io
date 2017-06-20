@@ -2,6 +2,7 @@
 ---
 {% include css/bootstrap.css %}
 {% include css/site.css %}
+{% include css/font-awesome.min.css %}
 
 /* Centre the client images in small screens */
 .img-responsive.client {
