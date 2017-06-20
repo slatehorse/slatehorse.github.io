@@ -1,6 +1,9 @@
 ---
-layout: style
+layout: false
 ---
+{% include css/bootstrap.css %}
+{% include css/font-awesome.min.css %}
+{% include css/style.css %}
 
 /* Centre the client images in small screens */
 .img-responsive.client {
