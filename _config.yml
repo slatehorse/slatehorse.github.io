@@ -94,10 +94,20 @@ members:
 clients:
   - name: Kudos Innovations Ltd.
     img: logo-kudos.png
+    img2x: logo-kudos@2x.png
     url: https://growkudos.com
   - name: Oxford University Hospitals NHS Trust
     img: logo-ouh.png
+    img2x: logo-ouh@2x.png
     url: http://oxfordbrc.nihr.ac.uk
+  - name: Press Association
+    img: logo-pa.png
+    img2x: logo-pa@2x.png
+    url: https://www.pressassociation.com/
+  - name: Urbs.Media
+    img: logo-urbs.png
+    img2x: logo-urbs@2x.png
+    url: https://urbsmedia.com/
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Slate Horse is a consultancy based in Oxfordshire. We help companies build amazing development teams and create effective technical strategies. We also love making things."
