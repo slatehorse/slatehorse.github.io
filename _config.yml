@@ -38,14 +38,14 @@ company_number: 9832352
 vat_number: 224636025   
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines: 
-    - 171 Oakbrook Road,
-    - Sheffield,
-    - S11 7EB,
-    - United Kingdom.
+# address:
+#   - lines: 
+#     - 171 Oakbrook Road,
+#     - Sheffield,
+#     - S11 7EB,
+#     - United Kingdom.
 email: hello@slatehorse.com
-tel: +44 (0)7841 757984
+# tel: +44 (0)7841 757984
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
